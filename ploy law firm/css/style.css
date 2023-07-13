@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color: white;
+
+
+}
+
+.deco {
+    margin-left: 700px;
+}
+
+.deco h3 {
+    color: aqua;
+
+}
+
+.deco a {
+    background-color: rgb(126, 126, 255);
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 18px 50px 18px 50px;
+    color: white;
+}
+
+.maxi h6 {
+    color: aqua;
+    font-size: medium;
+}
+
+.love {
+    text-align: center;
+    margin-right: 300px;
+}
+
+.maxi {
+    margin-left: 40px;
+}
+
+.maxi h5 {
+    font-size: medium;
+}
+
+.love p {
+    margin-left: 1200px;
+}
+
+.deco ul {
+    margin-bottom: 40px;
+}
