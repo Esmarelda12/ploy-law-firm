@@ -5,32 +5,26 @@ body {
 
 }
 
-.deco {
-    margin-left: 700px;
-}
 
-.deco h3 {
+
+ .h3 {
     color: aqua;
+    margin-top: -300px;
+    padding-left: 650px;
 
 }
-
-.deco a {
-    background-color: rgb(126, 126, 255);
-    text-decoration: none;
-    border-radius: 30px;
-    padding: 18px 50px 18px 50px;
+.p1{
     color: white;
+    padding-left: 650px;
+    font-size: 25px;
 }
+
 
 .maxi h6 {
     color: aqua;
     font-size: medium;
 }
 
-.love {
-    text-align: center;
-    margin-right: 300px;
-}
 
 .maxi {
     margin-left: 40px;
@@ -40,10 +34,100 @@ body {
     font-size: medium;
 }
 
-.love p {
-    margin-left: 1200px;
+
+
+ .ul {
+    padding-left: 690px;
+    color: aqua;
+    font-size: 15px;
+
+}
+.submit{
+margin-top: 50px auto;
+margin-left: 650px;
+width:fit-content;
+border-radius: 25px;
+border: 1px solid aqua;
+padding: 14px 50px;
+background-color: aqua;
+color: white;
+font-size: 20px;
+cursor: pointer;
+margin-top: 15px;
+text-decoration: none;
+}
+.book{
+    padding-left: 500px;
+    margin-top: 310px;
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
 }
 
-.deco ul {
-    margin-bottom: 40px;
+.black {
+    display: block;
+    margin-top: 150px;
+    height: 310px;
+    width: 410px;
+    padding-left: 90px;
+}
+.facebook a{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    color: black;
+
+}
+
+
+.facebook{
+    text-align: center;
+}
+
+
+.fa-facebook{
+    background-color: white;
+}
+
+
+.fa-whatsapp{
+    background-color: white;
+}
+
+
+.fa-facebook:hover{
+    color: blue;
+}
+
+
+.fa-whatsapp:hover{
+    color: darkgreen;
+}
+
+footer{
+    display: block;
+    padding: 2px;
+    margin-top: 100px;
+    text-align: center;
+    color:black;
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 800px) {
+    .deco {
+        display: inline;
+    }
 }
